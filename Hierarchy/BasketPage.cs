@@ -2,6 +2,6 @@
 {
     public class BasketPage : BasketWizardPage
     {
-        //the same
+
     }
 }
